@@ -1,0 +1,59 @@
+
+macha_happy.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+macha_happy10
+  rotate: false
+  xy: 1, 1003
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1
+macha_happy13
+  rotate: false
+  xy: 1, 1003
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1
+macha_happy11
+  rotate: false
+  xy: 1, 1
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1
+macha_happy16
+  rotate: false
+  xy: 1, 1
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1
+
+macha_happy2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+macha_happy12
+  rotate: false
+  xy: 1, 1003
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1
+macha_happy15
+  rotate: false
+  xy: 1, 1003
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1
+macha_happy14
+  rotate: false
+  xy: 1, 1
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1

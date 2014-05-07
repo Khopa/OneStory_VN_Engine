@@ -1,0 +1,15 @@
+<english>
+	
+	<!-- Menu Stuff -->
+	<entry key = "play"   content = "Play"/>
+	<entry key = "levels"   content = "Levels"/>
+	<entry key = "options"   content = "Options"/>
+	<entry key = "about"  content = "About"/>
+	<entry key = "quit"     content = "Quit"/>
+	
+	<!-- Option Menu -->
+	<entry key = "sfxVolume"   content = "Sound volume"/>
+	<entry key = "musicVolume" content = "Music volume"/>
+	<entry key = "debug" content = "Debug mode"/>
+	
+</english>

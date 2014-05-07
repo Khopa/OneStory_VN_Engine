@@ -1,0 +1,6 @@
+<characters>
+    <character name = "macha" color = "ff0000">
+        <animation>happy</animation>
+        <animation framerate="10">normal</animation>
+    </character>
+</characters>

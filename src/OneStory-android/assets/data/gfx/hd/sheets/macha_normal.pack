@@ -1,0 +1,57 @@
+
+macha_normal.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+macha_normal0
+  rotate: false
+  xy: 1, 1003
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1
+macha_normal1
+  rotate: false
+  xy: 1, 1
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1
+
+macha_normal2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+macha_normal2
+  rotate: false
+  xy: 1, 1003
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1
+macha_normal3
+  rotate: false
+  xy: 1, 1
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1
+
+macha_normal3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+macha_normal4
+  rotate: false
+  xy: 1, 1003
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1
+macha_normal5
+  rotate: false
+  xy: 1, 1
+  size: 1250, 1000
+  orig: 1250, 1000
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+backgrounds.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+interact
+  rotate: false
+  xy: 0, 501
+  size: 550, 500
+  orig: 550, 500
+  offset: 0, 0
+  index: 0
+mainMenu
+  rotate: false
+  xy: 0, 0
+  size: 550, 500
+  orig: 550, 500
+  offset: 0, 0
+  index: 0
+
+backgrounds2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+menuBot
+  rotate: false
+  xy: 0, 501
+  size: 550, 500
+  orig: 550, 500
+  offset: 0, 0
+  index: 0
+sea
+  rotate: false
+  xy: 0, 0
+  size: 550, 500
+  orig: 550, 500
+  offset: 0, 0
+  index: 0
+
+backgrounds3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+street
+  rotate: false
+  xy: 0, 501
+  size: 550, 500
+  orig: 550, 500
+  offset: 0, 0
+  index: 0
+sunset
+  rotate: false
+  xy: 0, 0
+  size: 550, 500
+  orig: 550, 500
+  offset: 0, 0
+  index: 0
+
+backgrounds4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+option
+  rotate: false
+  xy: 0, 0
+  size: 550, 1000
+  orig: 550, 1000
+  offset: 0, 0
+  index: 0
