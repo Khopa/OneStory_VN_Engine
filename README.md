@@ -68,14 +68,9 @@ end
 Importing in Eclipse/Intellij and linking the projects and configuring the build path manually is the only way to go.*
 
 <a href="url"><img src="https://raw.github.com/Khopa/OneStory_VN_Engine/master/os1.png" align="left" height="350"></a>
-<a href="url"><img src="https://raw.github.com/Khopa/OneStory_VN_Engine/master/os1.png" align="left" height="350"></a>
-<a href="url"><img src="https://raw.github.com/Khopa/OneStory_VN_Engine/master/os1.png" align="left" height="350"></a>
-
-![alt tag](https://raw.github.com/Khopa/OneStory_VN_Engine/master/os1.png)
-![alt tag](https://raw.github.com/Khopa/OneStory_VN_Engine/master/os2.png)
-![alt tag](https://raw.github.com/Khopa/OneStory_VN_Engine/master/os3.png)
-![alt tag](https://raw.github.com/Khopa/OneStory_VN_Engine/master/os4.png)
-
+<a href="url"><img src="https://raw.github.com/Khopa/OneStory_VN_Engine/master/os2.png" align="left" height="350"></a>
+<a href="url"><img src="https://raw.github.com/Khopa/OneStory_VN_Engine/master/os3.png" align="left" height="350"></a>
+<a href="url"><img src="https://raw.github.com/Khopa/OneStory_VN_Engine/master/os4.png" align="left" height="350"></a>
 
 
 
